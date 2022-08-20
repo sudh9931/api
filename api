@@ -17,3 +17,12 @@ def test1():
 
 if __name__=='__main__'  :
     app.run()
+
+
+
+
+From postman
+{
+    "num1":10,
+    "num2":20
+}
